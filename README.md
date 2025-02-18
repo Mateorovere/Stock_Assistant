@@ -25,6 +25,8 @@ This repository contains an AI assistant that connects to the internet to fetch 
 
 - Python 3.8+
 - Docker (optional)
+- OpenAI API Key
+- Alpha Ventage API Key
 
 ### Installation
 
